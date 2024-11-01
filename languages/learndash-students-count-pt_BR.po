@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Students Count for Learndash\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-19 14:20+0000\n"
+"PO-Revision-Date: 2021-08-19 14:27+0000\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: learndash-students-count"
+
+#: admin/trsc-settings.php:155
+msgid "(LearnDash - Course Grid free add-on)"
+msgstr ""
+
+#: admin/trsc-settings.php:187
+msgid "All"
+msgstr "Todos"
+
+#: admin/trsc-settings.php:231
+msgid "Always (may hurt performance)"
+msgstr "Sempre (pode prejudicar a performance)"
+
+#: admin/trsc-settings.php:81 admin/trsc-settings.php:110
+#: admin/trsc-settings.php:137
+msgid "Basic styling"
+msgstr "Estilo básico"
+
+#: admin/trsc-settings.php:158 admin/trsc-settings.php:172
+msgid "Class for additional CSS styling: "
+msgstr "Classe para aplicar estilo CSS adicional:"
+
+#: admin/trsc-settings.php:203
+msgid "Count update"
+msgstr "Atualizar contagem"
+
+#: admin/trsc-settings.php:118
+msgid "Custom text for no students"
+msgstr "Texto customizado para \"zero\" alunos"
+
+#: admin/trsc-settings.php:90
+msgid "Custom text for plural"
+msgstr "Texto customizado para plural"
+
+#: admin/trsc-settings.php:60
+msgid "Custom text for singular"
+msgstr "Texto customizado para singular"
+
+#: admin/trsc-settings.php:215
+msgid "Every 12 hours"
+msgstr "A cada 12 horas"
+
+#: admin/trsc-settings.php:211
+msgid "Every 24 hours"
+msgstr "A cada 24 horas"
+
+#: admin/trsc-settings.php:223
+msgid "Every 3 hours"
+msgstr "A cada 3 horas"
+
+#: admin/trsc-settings.php:219
+msgid "Every 6 hours"
+msgstr "A cada 6 horas"
+
+#: admin/trsc-settings.php:227
+msgid "Every hour"
+msgstr "A cada hora"
+
+#: admin/trsc-settings.php:72 admin/trsc-settings.php:102
+#: admin/trsc-settings.php:129
+msgid "Hide"
+msgstr "Esconder"
+
+#: admin/trsc-settings.php:264
+msgid "Hide shortcode instruction"
+msgstr "Esconder instruções de shortcode"
+
+#. Author URI of the plugin
+msgid "https://wptrat.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wptrat.com/students-count-for-learndash/"
+msgstr ""
+
+#: learndash-students-count.php:32
+msgid ""
+"LearnDash LMS is not active: STUDENTS COUNT FOR LEARNDASH needs it, that's "
+"why was deactivated"
+msgstr ""
+"LearnDash LMS não está ativado: STUDENTS COUNT FOR LEARNDASH precisa dele, "
+"por isso foi desativado"
+
+#: admin/trsc-settings.php:195
+msgid "Logged users only"
+msgstr "Apenas usuários logados"
+
+#. Author of the plugin
+msgid "Luis Rock"
+msgstr ""
+
+#: admin/trsc-settings.php:254 admin/trsc-settings.php:267
+msgid "Prefer to use shortcode?"
+msgstr "Prefere usar um shortcode?"
+
+#: admin/trsc-settings.php:153
+msgid "Show on the grid"
+msgstr "Mostrar no grid"
+
+#: admin/trsc-settings.php:168
+msgid "Show on the single course page"
+msgstr "Mostrar na página do curso"
+
+#: admin/trsc-settings.php:43
+msgid "Show your visitors how many students you have in your LearnDash courses"
+msgstr ""
+"Mostre aos seus visitantes quantos alunos estão inscritos em seus cursos "
+"LearnDash"
+
+#: admin/trsc-settings.php:63
+msgid "student enrolled"
+msgstr "aluno inscrito"
+
+#. The slug name for the parent menu
+#. Page title
+#: admin/trsc-settings.php:7 admin/trsc-settings.php:8
+msgid "Students Count"
+msgstr ""
+
+#: admin/trsc-settings.php:56
+msgid "Students Count - Settings"
+msgstr "Students Count - Configurações"
+
+#: admin/trsc-settings.php:275
+msgid "Students Count - Shortcode"
+msgstr ""
+
+#. Name of the plugin
+#: admin/trsc-settings.php:42
+msgid "Students Count for Learndash"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Students Count for LearnDash is the ultimate way to show your visitors how "
+"many students you have in your LearnDash courses."
+msgstr ""
+"Students Count para LearnDash é a melho maneira de mostrar aos visitantes do "
+"seu site quantos alunos estão inscritos em seus cursos."
+
+#: admin/trsc-settings.php:93
+msgid "students enrolled"
+msgstr "alunos incritos"
+
+#: admin/trsc-settings.php:191
+msgid "Visitors only (non logged)"
+msgstr "Somente visitantes (não logados)"
+
+#: admin/trsc-settings.php:145
+msgid "Where?"
+msgstr "Onde?"
+
+#: admin/trsc-settings.php:179
+msgid "Who can see?"
+msgstr "Quem pode ver?"

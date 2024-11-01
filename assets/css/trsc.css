@@ -1,0 +1,23 @@
+.ld-course-students-count {
+    display: block;
+    -webkit-text-size-adjust: 100%;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Lato',sans-serif;
+    word-wrap: break-word;
+    font-size: .75em;
+    line-height: 1em;
+    box-sizing: border-box;
+    color: #0984e3 !important;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-right: 5px;
+}
+
+.trsc-course-students-count {
+    display: block;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Lato',sans-serif;
+    color: #0984e3 !important;
+    font-weight: 800;
+}
